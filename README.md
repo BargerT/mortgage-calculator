@@ -30,3 +30,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deployed on Vercel
 
 This app is deployed on Vercel and can be found at the following URL:  mortgage-calculator-ivory.vercel.app 
+
+## Improvements
+
+Use better CSS to make the page more responsive to changing screen sizes (Mobile vs Desktop)
